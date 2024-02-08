@@ -51,9 +51,6 @@ body {
 .css {
     color: white;
     background-color: #2962ff;
-    /* border-width: 2px;
-    border-style: solid;
-    border-color: #0f141e; */
     border: 2px solid #0f141e;
     border-radius: 5px;
     padding-right: 3px;
@@ -62,9 +59,6 @@ body {
 .html {
     color: white;
     background-color: #e5532d;
-    /* border-width: 2px;
-    border-style: solid;
-    border-color: #0f141e; */
     border: 2px solid black;
     border-radius: 5px;
     padding-right: 2px;
@@ -72,9 +66,6 @@ body {
 }
 .js {
     background-color: #f7df1c;
-    /* border-width: 2px;
-    border-style: solid;
-    border-color: #0f141e; */
     border: 2px solid black;
     border-radius: 5px;
     padding-right: 3px;
